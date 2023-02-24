@@ -3,8 +3,10 @@ using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.ReactiveUI;
 using System;
 
-namespace MyFirstAvaloniaApp {
-    internal class Program {
+namespace RomanNumbersCalculator
+{
+    internal class Program
+    {
         // Initialization code. Don't use any Avalonia, third-party APIs or any
         // SynchronizationContext-reliant code before AppMain is called: things aren't initialized
         // yet and stuff might break.
